@@ -1,3 +1,2 @@
-Conflict heere...test for branch cmspage 
 changes for git hub
 now changes from local
