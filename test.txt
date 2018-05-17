@@ -1,1 +1,2 @@
-working on local and testing for git
+1. working on local and testing for git
+2. change from git
